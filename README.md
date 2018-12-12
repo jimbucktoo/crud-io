@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 * [NPM](https://www.npmjs.com/) - npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js.
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) - npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js.
+* [Heroku](https://www.heroku.com) - Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 * [Node-Postgres](https://node-postgres.com/) - Node-Postgres is a collection of node.js modules for interfacing with your PostgreSQL database.
 
 ### Installing
